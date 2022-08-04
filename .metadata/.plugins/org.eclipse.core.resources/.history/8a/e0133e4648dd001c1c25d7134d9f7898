@@ -1,0 +1,14 @@
+
+public class Lecture_2 {
+
+	public static void main(String[] args) {
+		int number = 35;
+		
+		if (number % 2 == 0)
+			System.out.printf("%d is even\n", number);
+		
+		System.out.printf("%d is odd\n", number);
+
+	}
+
+}

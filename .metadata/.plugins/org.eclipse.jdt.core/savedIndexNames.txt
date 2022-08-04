@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/alperduru/Documents/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1849257410.index
+3813963771.index
+455080246.index
+1865797976.index
+336424163.index
+1069027329.index
